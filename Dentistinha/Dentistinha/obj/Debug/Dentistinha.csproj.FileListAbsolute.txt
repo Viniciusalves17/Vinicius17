@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\bin\Debug\Dentistinha.exe.config
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\bin\Debug\Dentistinha.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\bin\Debug\Dentistinha.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.frmConsulta.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.Frmdentista.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentistinha\Dentistinha\obj\Debug\Dentistinha.pdb
